@@ -1,0 +1,21 @@
+{"codice":1001,"partenza":"Brindisi","arrivo":"Mesagne","oraPartenza":632,"oraArrivo":657,"costo":5}
+{"codice":1002,"partenza":"Brindisi","arrivo":"Mesagne","oraPartenza":640,"oraArrivo":665,"costo":5}
+{"codice":1003,"partenza":"Brindisi","arrivo":"Sandonaci","oraPartenza":1127,"oraArrivo":1162,"costo":6}
+{"codice":1004,"partenza":"Brindisi","arrivo":"Latiano","oraPartenza":667,"oraArrivo":702,"costo":6.5}
+{"codice":1005,"partenza":"Brindisi","arrivo":"Carovigno","oraPartenza":836,"oraArrivo":876,"costo":7}
+{"codice":1006,"partenza":"Brindisi","arrivo":"S.Vito N.nni","oraPartenza":1033,"oraArrivo":1063,"costo":6}
+{"codice":1007,"partenza":"Brindisi","arrivo":"S.Vito N.nni","oraPartenza":546,"oraArrivo":576,"costo":6}
+{"codice":1101,"partenza":"Mesagne","arrivo":"Brindisi","oraPartenza":1011,"oraArrivo":1036,"costo":5}
+{"codice":1102,"partenza":"Mesagne","arrivo":"Latiano","oraPartenza":1137,"oraArrivo":1152,"costo":4}
+{"codice":1103,"partenza":"Mesagne","arrivo":"Latiano","oraPartenza":564,"oraArrivo":579,"costo":4}
+{"codice":1104,"partenza":"Mesagne","arrivo":"Brindisi","oraPartenza":813,"oraArrivo":838,"costo":5}
+{"codice":1201,"partenza":"Sandonaci","arrivo":"Brindisi","oraPartenza":546,"oraArrivo":581,"costo":6}
+{"codice":1202,"partenza":"Sandonaci","arrivo":"Mesagne","oraPartenza":979,"oraArrivo":994,"costo":4}
+{"codice":1203,"partenza":"Sandonaci","arrivo":"Mesagne","oraPartenza":954,"oraArrivo":969,"costo":4}
+{"codice":1301,"partenza":"Latiano","arrivo":"Mesagne","oraPartenza":720,"oraArrivo":735,"costo":4}
+{"codice":1302,"partenza":"Latiano","arrivo":"Brindisi","oraPartenza":582,"oraArrivo":617,"costo":6.5}
+{"codice":1303,"partenza":"Latiano","arrivo":"Sandonaci","oraPartenza":881,"oraArrivo":901,"costo":4}
+{"codice":1401,"partenza":"Carovigno","arrivo":"Brindisi","oraPartenza":793,"oraArrivo":833,"costo":7}
+{"codice":1402,"partenza":"Carovigno","arrivo":"S.Vito N.nni","oraPartenza":775,"oraArrivo":815,"costo":3}
+{"codice":1501,"partenza":"S.Vito N.nni","arrivo":"Brindisi","oraPartenza":828,"oraArrivo":858,"costo":6}
+{"codice":1502,"partenza":"S.Vito N.nni","arrivo":"Carovigno","oraPartenza":551,"oraArrivo":581,"costo":3}
